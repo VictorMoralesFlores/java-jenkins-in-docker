@@ -1,2 +1,5 @@
 # Omitimos todos los archivos .class
 *.class
+
+#Omitimos el jar del proyecto
+java-jenkins-in-docker.jar
